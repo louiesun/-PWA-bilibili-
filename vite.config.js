@@ -15,7 +15,7 @@ export default defineConfig({
                 name: 'Installable PWA of bilibili',
                 short_name: "PWA-bilibili",
                 theme_color: "#e87c93",
-                scope:"https://*.bilibili.com",
+                scope: "https://",
                 start_url: "./",
                 display: "standalone",
                 background_color: "#e87c93",
